@@ -7,7 +7,7 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/qwiklabs-gcp-01-02aa27e3f5e1/locations/southamerica-east1/workerPools/COLEK'
+    name: 'projects/qwiklabs-gcp-01-02aa27e3f5e1/locations/us-central1/workerPools/COLEK'
 
 
 
